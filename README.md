@@ -95,6 +95,8 @@ Why not start your open source journey by merging some codes here. It will be ve
   *  Indent/Beautify/Modify codes.
 
 ### List of Contributors
-   After a successful PR merge during the event add the contributor name to this list.
-   
+<a href="https://github.com/paxF3E/anomaly-detection/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=paxF3E/anomaly-detection" />
+</a>
+
 Thank You! Keep Contributing :octocat:
